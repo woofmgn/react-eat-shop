@@ -5,6 +5,7 @@ import { Header } from "./components/Header";
 import { About } from "./pages/About";
 import { Contact } from "./pages/Contact";
 import { Home } from "./pages/Home";
+import { Movie } from "./pages/Movie";
 import { NotFound } from "./pages/NotFound";
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
             <Route exact path="/" component={Home} />
             <Route path="/about" component={About} />
             <Route path="/contact" component={Contact} />
-            {/* <Route path='' component={} /> */}
+            <Route path="/movies/:title" component={Movie} />
             <Route component={NotFound} />
           </Switch>
         </main>
