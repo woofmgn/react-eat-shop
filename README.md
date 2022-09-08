@@ -11,6 +11,8 @@
 
 В планах по развитию проекта: доработка функциональности и внешнего вида. Добавление возможности поиска конкретного блюда. 
 
+Ссылка на демо проект [https://react-eat-shop.vercel.app/](https://react-eat-shop.vercel.app/ "https://react-eat-shop.vercel.app/")
+
 ___
 #### For the project to work, you need to install npm packages from dependencies, 
 #### to do this, in the directory with the project, run:
