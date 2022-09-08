@@ -11,6 +11,13 @@
 
 В планах по развитию проекта: доработка функциональности и внешнего вида. Добавление возможности поиска конкретного блюда. 
 
+___
+#### For the project to work, you need to install npm packages from dependencies, 
+#### to do this, in the directory with the project, run:
+### `npm install`
+___
+
+
 # Available Scripts
 
 In the project directory, you can run:
