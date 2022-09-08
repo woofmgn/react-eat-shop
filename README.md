@@ -14,8 +14,9 @@
 Ссылка на демо проект [https://react-eat-shop.vercel.app/](https://react-eat-shop.vercel.app/ "https://react-eat-shop.vercel.app/")
 
 ___
-#### For the project to work, you need to install npm packages from dependencies, 
-#### to do this, in the directory with the project, run:
+
+#### Для работы проекта необходимо установить npm-пакеты из зависимостей,
+#### для этого в каталоге с проектом выполните:
 ### `npm install`
 ___
 
